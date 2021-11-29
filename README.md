@@ -9,8 +9,8 @@ The type of work is freedom, the organizational policy is freedom.
 English, Japanese
 
 ## Link
-- Official HP (Here) : https://fmdc.xyz
-- Git Hub : https://github.com/freedom-mod-development-community/
+- Official HP (Here) : [https://fmdc.xyz](https://fmdc.xyz)
+- Git Hub : [https://github.com/freedom-mod-development-community/](https://github.com/freedom-mod-development-community/)
 
 ## Community Info
 - Established in 2021 July
